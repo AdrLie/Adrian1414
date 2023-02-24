@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Adrian1414&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Still learning about javascript and interested with Go
+Still learning about javascript and currently learning python
 
 
 ## 🌐 Socials:
