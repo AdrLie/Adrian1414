@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=Adrian1414&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Still learning about javascript and currently learning python
 
@@ -18,7 +21,5 @@ Still learning about javascript and currently learning python
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Adrian1414&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Adrian1414&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
